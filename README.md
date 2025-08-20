@@ -13,19 +13,6 @@ My goal is to continuously improve my skills and one day close the book of my li
 
 ---
 
-### **📊 Profile Stats & Links**
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Amirrzajafary&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://yourwebsite.com">
-    <img src="https://img.shields.io/badge/website-1DA1F2?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://yourresume.com">
-    <img src="https://img.shields.io/badge/my%20resume-FFD700?style=for-the-badge&logo=readme&logoColor=black" alt="Resume"/>
-  </a>
-</p>
-
----
 
 ### **🚀 What I'm Working On**
 - 🌐 I'm currently working on **Python Projects & Automation**
