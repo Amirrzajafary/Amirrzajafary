@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there :wine_glass:
 
 
 **Amirrzajafary/Amirrzajafary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
