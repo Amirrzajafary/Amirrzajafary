@@ -4,7 +4,6 @@
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=AmirrezaJafary&label=Profile%20views&color=brightgreen&style=for-the-badge)
 
 <h2 align="center">Python Backend Developer</h1>
 
@@ -37,6 +36,7 @@ I’m passionate about learning, creating, and solving problems. My goal is to c
 
 
 ### 🌐 My Links  
+![Profile views](https://komarev.com/ghpvc/?username=AmirrezaJafary&label=Profile%20views&color=brightgreen&style=for-the-badge)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amirrezaw_jafary)
 [![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pv_Amirrexa)
