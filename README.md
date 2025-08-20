@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amirreza Jafary 🍷</h1>
 <h3 align="center">Python Developer | Content Creator | Tech Enthusiast</h3>
 
----
 
 ### **About Me**
 
