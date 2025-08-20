@@ -6,10 +6,6 @@
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=AmirrezaJafary&label=Profile%20views&color=brightgreen&style=for-the-badge)
-
-
-[![Website](https://img.shields.io/badge/website-1DA1F2?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
-
 [![My Resume](https://img.shields.io/badge/my%20resume-FFD700?style=for-the-badge&logo=readme&logoColor=black)](https://yourresume.com)
 
 
