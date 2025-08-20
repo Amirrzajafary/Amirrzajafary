@@ -10,11 +10,13 @@ From a very young age, I was fascinated by computers and technology. My curiosit
 I’m passionate about learning, creating, and solving problems.  
 My goal is to continuously improve my skills and one day close the book of my life **with pride and satisfaction**. 🚀
 
----
 
 
-### **🚀 What I'm Working On**
-- 🌐 I'm currently working on **Python Projects & Automation**
+
+
+
+### - 🌐 I'm currently working on **Python Projects & Automation**
+
 
 
 
