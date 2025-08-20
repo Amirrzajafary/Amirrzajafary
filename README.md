@@ -21,6 +21,6 @@
 
 
 ### 🌐 My Links  
-<a href="https://t.me/Pv_Amirrexa" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-%230088CC.svg?&style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Amirezaw_jafary)
+[![Telegram](https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Pv_Amirrexa)
