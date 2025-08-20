@@ -1,7 +1,8 @@
 ## Amirrzajafary :wine_glass:
 
 
-**Amirrzajafary/Amirrzajafary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=Amirezaw_jafary&label=Profile%20views&color=0e75b6&style=flat)
+
 
 Here are some ideas to get you started:
 
