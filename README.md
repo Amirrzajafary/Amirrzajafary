@@ -6,10 +6,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=AmirrezaJafary&label=Profile%20views&color=brightgreen&style=for-the-badge)
 
+<h2 align="center">Python Backend Developer</h1>
 
 
 
-Hi, I'm **Amirreza Jafary** 👋  
 I was born on **December 24, 2003**.  
 
 From a very young age, I was fascinated by computers and technology. My curiosity about **how things work** led me to explore many different fields, including **software development, programming, content creation, video editing, graphic design**, and even a bit of **music production**.  
