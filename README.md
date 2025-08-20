@@ -9,6 +9,22 @@
 
 
 
+Hi, I'm **Amirreza Jafary** 👋  
+I was born on **December 24, 2003**.  
+
+From a very young age, I was fascinated by computers and technology. My curiosity about **how things work** led me to explore many different fields, including **software development, programming, content creation, video editing, graphic design**, and even a bit of **music production**.  
+
+I’m passionate about learning, creating, and solving problems. My goal is to continuously improve my skills and one day close the book of my life **with pride and satisfaction**. 🚀
+
+
+
+
+
+
+
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
