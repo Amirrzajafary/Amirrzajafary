@@ -8,6 +8,20 @@
 ![Profile views](https://komarev.com/ghpvc/?username=Amirrzajafary&label=Profile%20views&color=0e75b6&style=flat)
 
 
+
+
+
+
+### 🌐 My Links  
+
+[![Website](https://img.shields.io/badge/website-1DA1F2?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![My Resume](https://img.shields.io/badge/my%20resume-FFD700?style=for-the-badge&logo=readme&logoColor=black)](https://yourresume.com)
+
+
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
