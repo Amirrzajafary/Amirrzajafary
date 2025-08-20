@@ -16,7 +16,7 @@ My goal is to continuously improve my skills and one day close the book of my li
 ### **📊 Profile Stats & Links**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Amirezaw_jafary&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Amirrzajafary&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://yourwebsite.com">
     <img src="https://img.shields.io/badge/website-1DA1F2?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"/>
   </a>
