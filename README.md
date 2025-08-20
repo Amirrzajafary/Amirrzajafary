@@ -5,7 +5,8 @@
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Amirrzajafary&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=AmirrezaJafary&label=Profile%20views&color=brightgreen&style=for-the-badge)
+
 
 [![Website](https://img.shields.io/badge/website-1DA1F2?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
