@@ -15,10 +15,9 @@ My goal is to continuously improve my skills and one day close the book of my li
 
 ### **🚀 What I'm Working On**
 - 🌐 I'm currently working on **Python Projects & Automation**
-- 📚 Currently learning **FastAPI & Django**
-- 🤝 Open to collaborate on **IoT Projects & AI Solutions**
-- 📝 I regularly write articles on [My Blog](https://yourwebsite.com)
-- 💬 Ask me about **Python, AI, FastAPI, Django**
+
+
+
 
 ---
 
