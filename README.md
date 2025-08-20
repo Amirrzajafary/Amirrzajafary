@@ -1,7 +1,7 @@
 ## Amirrzajafary :wine_glass:
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Amirezaw_jafary&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=Amirrzajafary&label=Profile%20views&color=0e75b6&style=flat)
 
 
 Here are some ideas to get you started:
