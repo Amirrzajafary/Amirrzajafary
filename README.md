@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Amirrzajafary :wine_glass:
 
 
-![Profile views](https://komarev.com/ghpvc/?username=Amirrzajafary&label=Profile%20views&color=brightgreen&style=for-the-badge)
+
 
 
 
